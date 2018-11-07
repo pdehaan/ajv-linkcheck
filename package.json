@@ -1,0 +1,25 @@
+{
+  "name": "ajv-linkcheck",
+  "description": "Checking links using ajv JSON schema validator.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/ajv-linkcheck/issues"
+  },
+  "dependencies": {
+    "ajv": "6.5.5",
+    "ajv-errors": "1.0.0",
+    "link-check": "4.4.4"
+  },
+  "homepage": "https://github.com/pdehaan/ajv-linkcheck#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/ajv-linkcheck.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
